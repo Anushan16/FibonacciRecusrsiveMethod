@@ -1,0 +1,1 @@
+Basic solution for the Fibonacci Sequence utilizing a recursive approach. Function's output would be the <i>nth</i> number in the Fibonacci Sequence. 
